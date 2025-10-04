@@ -1163,10 +1163,9 @@ target_name=webapps/doc-2025-1-2-ze.war
 
 _Идём дальше, вопрос - куда._
 
----
-
 </details>
 
+---
 
 <details>
   <summary><b>Неделя 24 (22.09.25–26.09.25)</b></summary>
